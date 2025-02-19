@@ -1,0 +1,2 @@
+Este é um trabalho da disciplina Introdução a Ciência dos Dados, da UFMG, feito no semestre 2/2024 pelos alunos João Victor Evangelista Cruz, Gustavo Henrique Gonçalves, Eduardo Farias e Daniel Braga Barbosa.
+Nele, conseguimos aplicar os conhecimentos adquiridos no curso, envolvendo escolha e limpeza dos dados, análise exploratória dos dados, testes de hipótese e intervalos de confiança, além de um modelo de machine learning envolvendo classificação.
